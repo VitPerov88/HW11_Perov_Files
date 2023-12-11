@@ -11,7 +11,6 @@ import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-
 public class ReadingFilesTest {
     ClassLoader cl = ReadingFilesTest.class.getClassLoader();
 
