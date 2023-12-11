@@ -8,6 +8,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.List;
 
+
 public class JsonPersonalData {
     private ClassLoader cl = JsonPersonalData.class.getClassLoader();
 
