@@ -31,5 +31,6 @@ public class PersonalDataModel {
         public List<String> getPhoneNumbers() {
             return phoneNumbers;
         }
+
     }
 }
