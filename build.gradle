@@ -18,7 +18,6 @@ dependencies {
     testImplementation "com.fasterxml.jackson.core:jackson-databind:2.15.2"
     testImplementation "com.opencsv:opencsv:5.7.1"
 
-
     testRuntimeOnly (
             "org.slf4j:slf4j-simple:1.7.29")
 }
